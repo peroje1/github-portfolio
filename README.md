@@ -1,6 +1,13 @@
 # Data / Backend Developer | Python, SQL, Django | Former Agricultural Manager
 
-## Technical Skills: Python, SQL, PowerBI, Dagster, Snowflake, Pyspark, Docker
+## Technical Skills: 
+- Python
+- SQL
+- PowerBI
+- Dagster
+- Snowflake
+- Pyspark
+- Docker
 
 # Profile 
 
@@ -17,7 +24,7 @@
 - Led procurement and supplier relations (fertilizers, fuel, equipment) and optimized logistics and machinery utilization
 - Supervised field teams and contractors, ensuring regulatory compliance and safety across all operations
 
-## Data analytics engineering internship at EPAM ---             sept 2025-current | Serbia
+## Data analytics engineering internship at EPAM ---             sept 2025 - current | Remote/Serbia
 - Designed and optimized relational database schemas (ER modeling, normalization, constraints) to support analytical workflows
 - Developed Python-based data processing scripts for data extraction, validation, and loading into SQL databases (ETL/ELT)
 - Integrated data from multiple sources and prepared it for analysis for projects (data quality checks, query optimization, indexing)
