@@ -41,4 +41,4 @@
 
 - This project does pipeline for credit risk analysis. It loads customer, credit, income, and overdue data from CSV files, validates them, and stores everything into a MySQL database. The pipeline also runs a risk scoring model that calculates debt-to-income ratios and credit risk probabilities. It is containerized with Docker for easy setup.
   
-## More projects available on github page github.com/peroje1
+## More about these and other projects (with detailed explanations) available on github page github.com/peroje1
