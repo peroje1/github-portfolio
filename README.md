@@ -1,5 +1,7 @@
 # Data / Backend Developer | Python, SQL, Django | Former Agricultural Manager
 
+---
+
 ## Technical Skills: 
 - Python
 - SQL
@@ -9,6 +11,8 @@
 - Pyspark
 - Docker
 
+---
+
 # Profile 
 
 - Motivated career-changer with more than 5 years of experience in agricultural management, now focused on data engineering and backend development. Strong foundation in Python, SQL, and data visualization tools, with hands-on experience building end-to-end data pipelines and web applications. Passionate about transforming raw data into useful information that helps make decisions and systems that can grow easily as needed. 
@@ -16,6 +20,8 @@
 # Education
 
 - AGRICULTURAL FACULTY – Program: Fruit and Viticulture  – Belgrade (not yet finished)
+
+---
 
 # Work Experience
 
@@ -28,6 +34,8 @@
 - Designed and optimized relational database schemas (ER modeling, normalization, constraints) to support analytical workflows
 - Developed Python-based data processing scripts for data extraction, validation, and loading into SQL databases (ETL/ELT)
 - Integrated data from multiple sources and prepared it for analysis for projects (data quality checks, query optimization, indexing)
+
+---
 
 # Projects
 
