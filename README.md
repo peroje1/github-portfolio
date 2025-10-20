@@ -2,15 +2,15 @@
 
 ## Technical Skills: Python, SQL, PowerBI, Dagster, Snowflake, Pyspark, Docker
 
-## Profile 
+# Profile 
 
 - Motivated career-changer with more than 5 years of experience in agricultural management, now focused on data engineering and backend development. Strong foundation in Python, SQL, and data visualization tools, with hands-on experience building end-to-end data pipelines and web applications. Passionate about transforming raw data into useful information that helps make decisions and systems that can grow easily as needed. 
 
-## Education
+# Education
 
 - AGRICULTURAL FACULTY – Program: Fruit and Viticulture  – Belgrade (not yet finished)
 
-## Work Experience
+# Work Experience
 
  ## Agricultural Manager at Private Agricultural Holdings ---          2019 – 2025 | Serbia
 - Managed full-cycle operations of multiple agricultural holdings (orchards), including planning, resource allocation and execution.
@@ -22,7 +22,7 @@
 - Developed Python-based data processing scripts for data extraction, validation, and loading into SQL databases (ETL/ELT)
 - Integrated data from multiple sources and prepared it for analysis for projects (data quality checks, query optimization, indexing)
 
-## Projects
+# Projects
 
 ## Agriculture ETL pipeline with Dagster
 - Built an end-to-end crop yield analytics pipeline using Python, MySQL, and Power BI. Processed large datasets to create aggregated metrics and interactive reports. Automated data workflows with Dagster for scheduled processing and delivered key agricultural insights.
