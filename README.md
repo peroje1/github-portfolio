@@ -1,15 +1,14 @@
-# Data/Backend Engineer (Python, SQL, Django)
+# Data/Backend Engineer
 
 ---
 
-## Technical Skills: 
-- Python
-- SQL
-- PowerBI
-- Dagster
-- Snowflake
-- Pyspark
-- Docker
+## Skills:
+- **Languages:** Python, SQL
+- **Data / ETL:** pandas, NumPy, SQLAlchemy, PySpark, CSV → MySQL/SQLite ETL
+- **Databases:** MySQL, PostgreSQL, SQLite; 
+- **Web / Backend:** Django (auth, forms, admin), Flask, Plotly
+- **Analytics & BI:** Power BI, Tableau; Matplotlib, Plotly
+- **DevOps & Tools:** Docker & Compose, WSL2, Git/GitHub, CI/CD pipelines
 
 ---
 

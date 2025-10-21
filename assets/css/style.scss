@@ -3,6 +3,22 @@
 /* b */
 @import "{{ site.theme }}";
 
+/* Header dugmad (linkovi iz description-a) */
+.header-btn {
+  display:inline-block;
+  padding:8px 12px;
+  margin:8px 6px 0 0;
+  border:1px solid var(--border);
+  border-radius:10px;
+  background:rgba(255,255,255,0.04);
+  text-decoration:none;
+}
+.header-btn:hover { background:rgba(255,255,255,0.08); }
+
+/* Po želji centriraj opis + dugmad ispod naslova */
+.site-description { text-align:center; }
+
+
 /* Sistem boja */
 :root {
   color-scheme: dark light; /* omogući “dark” UI detalje u browseru */

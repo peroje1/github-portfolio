@@ -1,6 +1,10 @@
 title: Petar Nikić
 logo: headshot.jpg
-description: My personal portfolio showcasing my work history and the tech projects I’ve built and worked on. 
+description: >-
+  My personal portfolio showcasing my work history and the tech projects I’ve built and worked on.
+  <br>
+  <a class="btn header-btn" href="https://github.com/peroje1" target="_blank" rel="noopener">GitHub</a>
+  <a class="btn header-btn" href="https://www.linkedin.com/in/petar-nikic" target="_blank" rel="noopener">LinkedIn</a>
 #show_downloads: true
 theme: jekyll-theme-minimal
 plugins:
