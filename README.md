@@ -1,4 +1,4 @@
-# Data / Backend Developer | Python, SQL, Django | Former Agricultural Manager
+# Data/Backend Engineer (Python, SQL, Django)
 
 ---
 
@@ -42,13 +42,17 @@
 ## Agriculture ETL pipeline with Dagster
 - Built an end-to-end crop yield analytics pipeline using Python, MySQL, and Power BI. Processed large datasets to create aggregated metrics and interactive reports. Automated data workflows with Dagster for scheduled processing and delivered key agricultural insights.
 [Repo](https://github.com/peroje1/agriculture-etl-dagster) · 
+
 ## Used Cars Django App
 - Developed a full-stack web application using Django, SQLite, and Plotly for managing and analyzing used car listings. Users can filter by brand, year, and price, view detailed charts (bar, pie, and scatter plots), and manage listings through a custom admin interface. Includes authentication, pagination, image upload, and a responsive UI.
 [Repo](https://github.com/peroje1/used_cars_django_app) · 
+
 ## Credit risk pipeline
 - This project does pipeline for credit risk analysis. It loads customer, credit, income, and overdue data from CSV files, validates them, and stores everything into a MySQL database. The pipeline also runs a risk scoring model that calculates debt-to-income ratios and credit risk probabilities. It is containerized with Docker for easy setup.
 [Repo](https://github.com/peroje1/credit_risk) · 
+
 ## RSS Feed Parser
 - A Python script that reads RSS feeds from the web and shows the latest news in a clean, readable format. You can view the feed in the console or get it as JSON, with options to limit the number of news items.
 [Repo](https://github.com/peroje1/rss-parser-python) · 
+
 ## More about these and other projects (with detailed explanations) available on github page github.com/peroje1

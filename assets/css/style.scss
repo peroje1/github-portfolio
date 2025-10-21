@@ -1,14 +1,40 @@
 ---
 ---
-@import "{{ site.theme }}"; /* učitava Minimal, pa posle ide override */
+/* b */
+@import "{{ site.theme }}";
 
-:root { color-scheme: dark light; }
-body { background: #0b0e14; color: #e6e6e6; }
-a { text-decoration: none; border-bottom: 1px solid rgba(230,230,230,.35); }
-a:hover { background: rgba(255,255,255,.07); }
-hr { border-color: #2a2f3a; }
-img { border-radius: 12px; }
-.btn {
-  display:inline-block; padding:10px 14px; border-radius:10px;
-  border:1px solid #2a2f3a; text-decoration:none;
+/* Sistem boja */
+:root {
+  color-scheme: dark light; /* omogući “dark” UI detalje u browseru */
+  --bg:       #0b0e14;
+  --text:     #e6e6e6;
+  --muted:    #a3adb8;
+  --heading:  #f6f7f9;
+  --link:     #8fd3ff;
+  --link-h:   #c2e6ff;
+  --border:   #2a2f3a;
+  --codebg:   #11151c;
 }
+
+/* Osnovni kontrast */
+html, body { background: var(--bg); color: var(--text); }
+
+/* Naslovi i podebljani tekst */
+h1, h2, h3, h4, h5, h6, strong { color: var(--heading); }
+
+/* Paragrafi i liste  */
+.wrapper p, .wrapper li { color: var(--text); }
+
+/* Linkovi */
+a { color: var(--link); text-decoration: none; border-bottom: 1px solid rgba(143,211,255,.35); }
+a:hover { color: var(--link-h); background: rgba(255,255,255,.06); }
+
+/* Separator i footer */
+hr { border: 0; border-top: 1px solid var(--border); }
+.site-footer, .site-footer p { color: var(--muted); }
+
+/* Slike i tabele */
+img { border-radius: 12px; }
+table { border-color: var(--border); }
+th, td { border-color: var(--border); color: var(--text); }
+code, pre { background: var(--codebg); color: var(--heading); }
