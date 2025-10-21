@@ -4,7 +4,7 @@
 
 ## Skills:
 - **Languages:** Python, SQL
-- **Data / ETL:** pandas, NumPy, SQLAlchemy, PySpark, CSV → MySQL/SQLite ETL
+- **Data / ETL:** pandas, NumPy, SQLAlchemy, PySpark, ETL pipelines
 - **Databases:** MySQL, PostgreSQL, SQLite; 
 - **Web / Backend:** Django (auth, forms, admin), Flask, Plotly
 - **Analytics & BI:** Power BI, Tableau; Matplotlib, Plotly
