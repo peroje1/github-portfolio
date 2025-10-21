@@ -3,3 +3,6 @@ logo: headshot.jpg
 description: My personal portfolio showcasing my work history and the tech projects I’ve built and worked on. 
 #show_downloads: true
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

@@ -1,0 +1,14 @@
+---
+---
+@import "{{ site.theme }}"; /* učitava Minimal, pa posle ide override */
+
+:root { color-scheme: dark light; }
+body { background: #0b0e14; color: #e6e6e6; }
+a { text-decoration: none; border-bottom: 1px solid rgba(230,230,230,.35); }
+a:hover { background: rgba(255,255,255,.07); }
+hr { border-color: #2a2f3a; }
+img { border-radius: 12px; }
+.btn {
+  display:inline-block; padding:10px 14px; border-radius:10px;
+  border:1px solid #2a2f3a; text-decoration:none;
+}
